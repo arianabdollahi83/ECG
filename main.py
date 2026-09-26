@@ -14,8 +14,11 @@ detector=QRS_Detector(ecg,fs)
 r_peaks=detector.R_detect()
 
 plt.plot(ecg)
+plt.title("Detection Comparison")
 plt.scatter(peak_samples,ecg[peak_samples],label='Labeled MIT')
 plt.scatter(r_peaks,ecg[r_peaks],label='Proposal R-Detection Method')
 plt.legend()
 plt.show()
+
+
 
