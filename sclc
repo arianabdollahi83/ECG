@@ -1,0 +1,36 @@
+[33mcommit d941fee9dc0d2620670dcb03b6584d278fbc6ed1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Arian <xarianxabd@gmail.com>
+Date:   Sun Oct 4 12:23:57 2026 +0330
+
+    'test'
+
+[33mcommit 366651b75ee2fba1333db27edd1a65b9df00fc1c[m
+Merge: 83ea77a 5e58a25
+Author: Arian <xarianxabd@gmail.com>
+Date:   Sat Sep 26 18:32:03 2026 +0330
+
+    Merge branch 'main' of https://github.com/arianabdollahi83/ECG
+
+[33mcommit 83ea77a9ebe2c4016e0241c37637a600dde5a6bf[m
+Author: Arian <xarianxabd@gmail.com>
+Date:   Sat Sep 26 18:31:35 2026 +0330
+
+    comparison example
+
+[33mcommit 5e58a259800a640a12721f8d9042711c206a0c9e[m
+Author: arianabdollahi83 <43350684+arianabdollahi83@users.noreply.github.com>
+Date:   Sat Sep 26 18:29:03 2026 +0330
+
+    Create README.md
+
+[33mcommit ae322933f2f7bd654432410a7ef12aa47b9697d3[m
+Author: Arian <xarianxabd@gmail.com>
+Date:   Sat Sep 26 18:26:35 2026 +0330
+
+    MITDB example plot
+
+[33mcommit 9d42739e6bbc874837602cec07a8cddc8e922403[m
+Author: Arian <xarianxabd@gmail.com>
+Date:   Sat Sep 26 18:17:43 2026 +0330
+
+    first commit
